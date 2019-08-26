@@ -1,4 +1,2 @@
 MSIS
 dev-amit
-bvmehta
-
